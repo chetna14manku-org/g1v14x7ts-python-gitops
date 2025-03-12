@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: g1v14x7ts-python-repository
+spec:
+  url: https://github.com/chetna14manku-org/g1v14x7ts-python
